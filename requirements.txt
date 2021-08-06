@@ -1,0 +1,5 @@
+Django
+django-environ
+Pillow
+psycopg2-binary
+
